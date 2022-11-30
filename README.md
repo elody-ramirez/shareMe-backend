@@ -1,3 +1,3 @@
 # ShareMe Backened
 
-Run backend with npm start
+Run backend with npm startNPM
